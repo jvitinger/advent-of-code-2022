@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0924d76-dcec-4fe6-a8b7-614d383e2ffd" name="Changes" comment="1 &amp; 2" />
+    <list default="true" id="d0924d76-dcec-4fe6-a8b7-614d383e2ffd" name="Changes" comment="1 &amp; 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,14 +47,7 @@
       <recent name="C:\jv\projects\AdventOfCode2022\src\main\kotlin\aoc01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._02_2Kt">
-    <configuration name="_01_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_1Kt" />
-      <module name="AdventOfCode2022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._03_2Kt">
     <configuration name="_01_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_2Kt" />
       <module name="AdventOfCode2022" />
@@ -72,12 +69,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_03_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_1Kt" />
+      <module name="AdventOfCode2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_2Kt" />
+      <module name="AdventOfCode2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._03_2Kt" />
+        <item itemvalue="Kotlin._03_1Kt" />
         <item itemvalue="Kotlin._02_2Kt" />
         <item itemvalue="Kotlin._02_1Kt" />
         <item itemvalue="Kotlin._01_2Kt" />
-        <item itemvalue="Kotlin._01_1Kt" />
       </list>
     </recent_temporary>
   </component>
